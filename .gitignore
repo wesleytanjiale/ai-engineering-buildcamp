@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+01-foundation/homework/books/*
+01-foundation/homework/books_text/*
+.vscode
